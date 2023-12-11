@@ -4,11 +4,11 @@ import arrow from '../images/icon-arrow.svg';
 
 const ProductiveSection = () => {
     return (
-        <section id='productive' className='bg-white'>
+        <section id='productive' className='bg-gray-50'>
             <div className='flex flex-col space-y-7 text-center md:text-left items-center
             justify-center py-20 px-5 md:flex-row md:space-x-16 md:space-y-0'>
                 <img src={illustration} alt='' className='w-96 px-5' />
-                <div className='max-w-md flex flex-col space-y-3'>
+                <div className='max-w-md flex flex-col items-center md:items-start space-y-3'>
                     <h3 className='text-3xl font-bold md:max-w-xs'>Stay productive, whereever you are</h3>
                     <p className=''>
                         Never let location be an issue when accessing your files.
