@@ -8,7 +8,7 @@ import profile3 from '../images/profile-3.jpg';
 const TestimonialsSection = () => {
     return (
         <section id='testimonials' className='bg-gray-50'>
-            <div className='container mx-auto px-6 pt-12 pb-80 md:px-32 md:pb-32 md:pt-20'>
+            <div className='container mx-auto px-6 pt-12 pb-80 md:px-32 md:pb-96 md:pt-20'>
                 <div className='relative w-full flex flex-col space-y-6 md:flex-row 
                     items-center md:space-y-0 md:space-x-12'>
                     <img src={quotes} alt='' className='absolute left-1 -top-3 w-10 md:-top-16 md:w-20' />
