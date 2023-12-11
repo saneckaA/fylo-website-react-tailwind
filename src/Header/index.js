@@ -7,8 +7,8 @@ const Header = () => {
                w-48 mx-auto md:mx-0 md:absolute top-10 left-10'></div>
             <div className='flex flex-row space-x-4 items-center justify-center 
                md:justify-end md:space-x-10 md:absolute top-12 right-12'>
-                <a href='features' className='hover:text-accentCyan'>Features</a>
-                <a href='testimonials' className='hover:text-accentCyan'>Testimonials</a>
+                <a href='#features' className='hover:text-accentCyan'>Features</a>
+                <a href='#testimonials' className='hover:text-accentCyan'>Testimonials</a>
                 <button id='theme-toggle' className='text-gray-500 dark:text-gray-400
                  hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none
                  focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg
