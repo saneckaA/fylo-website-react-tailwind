@@ -7,8 +7,8 @@ import security from '../images/icon-security.svg';
 
 const FeaturesSection = () => {
     return (
-        <section id='features' className='bg-gray-50'>
-            <div className='grid grid-cols-1 md:grid-cols-2 gap-7 justify-items-center px-5 md:px-60'>
+        <section id='features' className='bg-gray-50 dark:bg-darkBlue1'>
+            <div className='dark:text-white grid grid-cols-1 md:grid-cols-2 gap-7 justify-items-center px-5 md:px-60'>
                 <div className='flex flex-col space-y-3 items-center justify-center md:mb-16'>
                     <img src={access} alt='' className='w-28' />
                     <h3 className='text-xl font-bold'>Acces your file from anywhere</h3>

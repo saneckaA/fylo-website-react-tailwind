@@ -4,7 +4,7 @@ const EarlySection = () => {
     return (
         <section id='early' className='relative px-6 md:px-0 '>
             <div className='relative -mt-44 max-w-4xl mx-auto p-10 px-6 space-y-6 text-center
-        rounded-lg bg-gray-200 md:px-16'>
+        rounded-lg bg-gray-200 dark:bg-darkBlue dark:text-white md:px-16'>
                 <h5 className='text-2xl font-bold'>Get early access today</h5>
                 <p>
                     It only takes a minute to sign up and out free starter tier is extremely

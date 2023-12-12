@@ -3,8 +3,9 @@ import intro from '../images/illustration-intro.png';
 
 const MainSection = () => {
     return (
-        <section id='main' className='bg-curvy-light-mode bg-no-repeat bg-contain bg-bottom'>
-            <div className='mx-auto container flex flex-col items-center space-y-10 px-6 text-center md:pt-20 pb-52'>
+        <section id='main' className='bg-curvy-light-mode dark:bg-curvy-dark-mode bg-no-repeat bg-contain bg-bottom'>
+            <div className='dark:text-white mx-auto container flex flex-col items-center space-y-10 px-6 text-center 
+            md:pt-20 pb-52'>
                 <img src={intro} alt='' className='mx-auto' />
                 <h1 className='font-bold mx-auto text-3xl md:text-4xl max-w-2xl text-center
                 leading-normal'>

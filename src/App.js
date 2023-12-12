@@ -1,9 +1,9 @@
-import './App.css';
 import MainContainer from './MainContainer';
 
 function App() {
+
   return (
-    <div >
+    <div className='dark:bg-darkBlue3'>
       <MainContainer />
     </div>
   );

@@ -4,8 +4,8 @@ import arrow from '../images/icon-arrow.svg';
 
 const ProductiveSection = () => {
     return (
-        <section id='productive' className='bg-gray-50'>
-            <div className='flex flex-col space-y-7 text-center md:text-left items-center
+        <section id='productive' className='bg-gray-50 dark:bg-darkBlue1'>
+            <div className='dark:text-white flex flex-col space-y-7 text-center md:text-left items-center
             justify-center py-20 px-5 md:flex-row md:space-x-16 md:space-y-0'>
                 <img src={illustration} alt='' className='w-96 px-5' />
                 <div className='max-w-md flex flex-col items-center md:items-start space-y-3'>
