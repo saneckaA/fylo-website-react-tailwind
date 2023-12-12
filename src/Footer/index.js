@@ -45,9 +45,9 @@ const Footer = () => {
                         <a href='#' className='hover:text-accentCyan'>Privacy</a>
                     </div>
                     <div className='flex flex-row space-x-3'>
-                        <img src={facebook} alt='' />
-                        <img src={twitter} alt='' />
-                        <img src={insta} alt='' />
+                        <img src={facebook} alt='' className='border border-white rounded-full p-2' />
+                        <img src={twitter} alt='' className='border border-white rounded-full p-2' />
+                        <img src={insta} alt='' className='border border-white rounded-full p-2' />
                     </div>
                 </div>
             </div>
