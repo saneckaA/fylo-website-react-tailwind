@@ -4,6 +4,12 @@
 
 This is one of the projects I worked on during the Tailwind CSS learning course. Mainly focused on making light/dark mode and saving the mode to local storage, as well as a smooth scroll bar while creating this project.
 
+### Desktop
+![](https://github.com/saneckaA/fylo-website-react-tailwind/blob/main/src/images/fylo-desktop.PNG?raw=true)
+
+### Mobile
+![](https://github.com/saneckaA/fylo-website-react-tailwind/blob/main/src/images/fylo-mobile.PNG?raw=true)
+
 ## You can check it out here:
 [Fylo - demo](https://saneckaa.github.io/fylo-website-react-tailwind/)
 
